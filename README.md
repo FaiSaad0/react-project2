@@ -1,2 +1,1 @@
-# react-project2
- 
+# simple-react-project-
